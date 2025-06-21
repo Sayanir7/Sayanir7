@@ -73,16 +73,6 @@
 
 ---
 
-### 📌 Featured Projects (Pin These!)
-
-- [WebCraft – Visual Website Builder](https://github.com/sayanir7/webcraft)
-- [IITG College Help Bot](https://github.com/sayanir7/college-bot)
-- [Circuit Solver App](https://github.com/sayanir7/circuit-solver)
-- [Flutter Couple App](https://github.com/sayanir7/couple-app)
-- [Library Seat Detection AI](https://github.com/sayanir7/seat-detector)
-- [Geo Attendance Tracker](https://github.com/sayanir7/attendance-tracker)
-
----
 
 ### 📫 Let's Connect!
 
