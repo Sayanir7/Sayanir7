@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Shergil (aka sayanir7)
 
-<!--
-**Sayanir7/Sayanir7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year ECE @ IIT Guwahati  
+💻 Passionate about web & mobile dev, AI, and real-world automation  
+🏗 Currently building: WebCraft – React-based website builder  
+📬 Connect with me: [LinkedIn](https://linkedin.com/in/yourprofile) | sayanroy@example.com
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayanir7&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayanir7&layout=compact&theme=tokyonight)
+
+## 📌 Pinned Projects
+- 🚀 WebCraft – Visual website builder using JSX + Sandpack
+- 🤖 College Help Chatbot – NLP-powered chatbot for IITG freshers
+- 📍 Attendance Tracker – Geo-based mobile app with Flutter + Node.js
