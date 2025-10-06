@@ -11,10 +11,11 @@
 
 ### 🚀 About Me
 
-- 🏫 I’m a 2nd-year undergrad at **IIT Guwahati**, majoring in **Electronics & Communication Engineering**
-- 👨‍💻 I love building **real-world tools**, especially with **React**, **Flutter**, and **ML**
+- 🏫 I’m a 3rd-year undergrad at **IIT Guwahati**, majoring in **Electronics & Communication Engineering**
+- 👨‍💻 I love building **real-world tools**, especially with **React**, **Flutter**, and integrate with **ML** models 
 - 🤖 I recently built an **AI Chatbot** to assist IITG freshers with college queries
-- 💡 My current deep-dives: **WebRTC**, **Docker**, **custom NLP models**, and **circuit simulation**
+- 💡 My current deep-dives: **NodeJS**, **DevOps**, **MongoDB** etc.
+- Also contributing as a senior web developer at [SWC](https://github.com/swciitg).
 - [Webpage](https://sayanir7-portifolio.vercel.app/)
 
 
@@ -45,6 +46,9 @@
 ---
 
 ### 🧠 Current Projects
+
+- **CF Submitter**
+  A vscode extesion which let user fetch all the problems of a contest inside vscode, then run the test cases, and submit directly, all without leaving vscode. 
 
 - 🔧 **WebCraft**  
   A React-based website builder with live JSX rendering, Sandpack integration, and a drag-and-drop editor
@@ -81,6 +85,3 @@
 
 ---
 
-<p align="center">
-  Made with ❤️ from IIT Guwahati
-</p>
